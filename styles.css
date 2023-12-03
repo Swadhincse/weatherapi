@@ -1,0 +1,18 @@
+body {
+    background-color: hwb(292 14% 25%); 
+  }
+  
+  .landing-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  #fetchDataBtn {
+    background-color: #f6f3f6; 
+    color: #1e0e0e; 
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
